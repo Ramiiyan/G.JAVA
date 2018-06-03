@@ -1,0 +1,18 @@
+    It's check covers difficult situations you encounter while climbing, Jumping, or swimming.
+    It's check covers your attempt to stay on your feet in a tricky situation.
+    It's check Whenever you attempt an act of legerdemain or manual trickery.
+    It's check when you attempt to conceal yourself from enemies or sneak up on someone without being seen or heard.
+    It's check measures your ability to recall lore about Spells, Magic Items and the inhabitants of those planes.
+    It's check measures your ability to recall lore about historical events,legendary people and lost civilizations.
+    It's looks around for clues and make deductions based on those clues and check location of a hidden object.
+    It's check measures your ability to recall lore about terrain, Plants and animals, the weather, and natural cycles.
+    It's check measures your ability to recall lore about religious hierarchies, holy symbols, and the practices of secret cults.
+    It's check to control your mount when you attempt a risky maneuver,calm down a domesticated animal and keep a mount from getting spooked
+    It's check decides whether you can determine the true intentions of a creature,involves gleaning clues from body Languages.
+    It's let you try to stabilize a dying companion or diagnose an illness.
+    It's let you spot, hear, or otherwise detect the presence of something and the keenness of your senses.
+    It's check to follow tracks,hunt wild game,guide your group through frozen wastelands.
+    It's check determines whether you can convincingly hide the truth, either verbally or through your actions.
+    It's allows you to attempt influence someone through overt threats, hostile actions, and physical violence.
+    It's check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
+    It's helps to acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette.
